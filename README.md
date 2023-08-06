@@ -3,7 +3,7 @@
 
  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
- <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c++&logoColor=white"/>
  
 <!--
 **jaeyeon1024/jaeyeon1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
